@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey%2C+there!+I+am+Miguel!)](https://www.linkedin.com/in/miguel-ara%C3%BAjo-a3a936271/)
