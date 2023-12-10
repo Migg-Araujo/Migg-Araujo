@@ -29,9 +29,11 @@
 <details align="center">
   <summary><samp>Stats</samp></summary><br>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migg-araujo&show_icons=true&locale=en&theme=dark" alt="migg-araujo" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migg-araujo&theme=dark" alt="migg-araujo" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migg-araujo&show_icons=true&locale=en&layout=compact&theme=dark" alt="migg-araujo" /></p>
+  <a href="http://www.github.com/migg-araujo"><img src="https://github-readme-stats.vercel.app/api?username=migg-araujo&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="migg-araujo's GitHub stats" /></a>
+
+<a href="http://www.github.com/migg-araujo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=migg-araujo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/migg-araujo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migg-araujo&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </details>
 
 <details align="center">
