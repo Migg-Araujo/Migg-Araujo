@@ -1,6 +1,6 @@
 <h3 align="center">
   <samp>
-    Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/miguel-ara%C3%BAjo-a3a936271/">Miguel</a>!</b>
+    👋 Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/miguel-ara%C3%BAjo-a3a936271/">Miguel</a>!</b>
   </samp>
 </h3>
 
