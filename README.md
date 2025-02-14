@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <samp>
-    〘 Systems Development Student at ETEC São Mateus 〙<br>
+    〘 Systems Development Technician at ETEC São Mateus 〙<br>
     〘 Passionate about Mathematics and Programming Languages 〙<br>
   </samp>
 </p>
