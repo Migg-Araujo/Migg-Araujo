@@ -7,6 +7,7 @@
 <p align="center"><br>
   <samp>
     〘 Systems Development Technician at ETEC São Mateus 〙<br>
+    〘 Student in Federal University of ABC 〙<br>
     〘 Passionate about Mathematics and Programming Languages 〙<br>
   </samp>
 </p>
